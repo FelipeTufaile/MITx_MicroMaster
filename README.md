@@ -1,4 +1,5 @@
-# MITx 6.419x - Data Analysis: Statistical Modeling and Computation in Applications
+# MITx 6.419x 
+## Data Analysis: Statistical Modeling and Computation in Applications
 
 Welcome to Data Analysis: Statistical Modeling and Computation in Applications.
 This course is a hands-on data analysis course that introduces the interplay between statistics and computation for the analysis of real data.
